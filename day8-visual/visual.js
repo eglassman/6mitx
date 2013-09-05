@@ -1,4 +1,4 @@
-var outer_width = 300;
+var outer_width = 1500;
 var outer_height = 300;
 var margin = { top: 20, right: 20, bottom: 20, left: 20 };
 var chart_width = outer_width - margin.left - margin.right;
